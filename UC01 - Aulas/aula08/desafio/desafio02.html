@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Menu</h1>
+    <form>
+        <label for="opcao">Escolha uma opção:</label>
+        <select id="opcao" onchange="escolhaOpcao()">
+            <option value="">Selecione uma opção</option>
+            <option value="1">Verficar Par ou Ímpar</option>
+            <option value="2">Verificar Positivo ou Negativo</option>
+            <option value="3">Calcular Dobro</option>
+        </select>
+        <br>
+    </form>
+    <div id="resultado"></div>
+    <script src="script.js"></script>
+</body>
+
+</html>
