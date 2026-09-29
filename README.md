@@ -23,8 +23,8 @@ Aqui estão algumas das linguagens, frameworks e ferramentas utilizadas nos proj
 ## 📂 Estrutura do Repositório
 
 ```text
-├── modulo-01/          # Conteúdos e exercícios do Módulo 1
-├── modulo-02/          # Conteúdos e exercícios do Módulo 2
+├── UC01/          # Conteúdos e exercícios do Módulo 1
+├── UC02/          # Conteúdos e exercícios do Módulo 2
 ├── projetos/           # Projetos práticos e integradores
 └── README.md           # Documentação do repositório
 
