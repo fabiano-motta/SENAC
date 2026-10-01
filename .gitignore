@@ -5,9 +5,19 @@
 *.code-workspace
 
 # =========================================
-# Imagens e Arquivos de Mídia
+# Imagens e Arquivos de Mídia (static/img)
 # =========================================
-static/img/
+# Ignora tudo dentro da pasta static/img, mas mantém a pasta monitorada se estiver vazia (com .gitkeep)
+static/img/*
+!static/img/.gitkeep
+
+# Caso tenha imagens soltas em outros diretórios do projeto:
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+# *.webp
 
 # =========================================
 # Arquivos de Sincronização e Lock (Nextcloud)
