@@ -28,6 +28,8 @@ Aqui estão algumas das linguagens, frameworks e ferramentas utilizadas nos proj
 ├── projetos/           # Projetos práticos e integradores
 └── README.md           # Documentação do repositório
 
+Link para o projeto beta - index.html
+
 👤 Autor
 Desenvolvido por Fabiano Motta.
 
