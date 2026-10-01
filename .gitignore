@@ -1,0 +1,48 @@
+# =========================================
+# VS Code
+# =========================================
+.vscode/
+*.code-workspace
+
+# =========================================
+# Imagens e Arquivos de Mídia
+# =========================================
+static/img/
+
+# =========================================
+# Arquivos de Sincronização e Lock (Nextcloud)
+# =========================================
+*.~lock.*
+.nextcloud*
+.sync*
+*.part
+*.filepart
+
+# =========================================
+# Metadados do Sistema Operacional
+# =========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.directory
+*~
+
+# =========================================
+# Python / Ambiente de Desenvolvimento (Opcional)
+# =========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
